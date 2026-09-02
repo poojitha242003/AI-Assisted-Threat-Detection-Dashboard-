@@ -1,6 +1,0 @@
-{
-  "name": "Cyber Threat Intelligence Dashboard",
-  "description": "An advanced AI-Assisted Cyber Threat Detection dashboard featuring real-time interactive security analytics, dynamic static data uploads, live stream API integrations, and an AI security chat agent powered by Gemini.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
